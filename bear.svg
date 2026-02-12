@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="Bear holding flowers">
+  <rect width="240" height="240" fill="#fffafc" rx="24" />
+  <circle cx="72" cy="70" r="26" fill="#c88c5c" />
+  <circle cx="168" cy="70" r="26" fill="#c88c5c" />
+  <circle cx="120" cy="110" r="70" fill="#d79a64" />
+  <circle cx="96" cy="100" r="10" fill="#3a2a1f" />
+  <circle cx="144" cy="100" r="10" fill="#3a2a1f" />
+  <circle cx="120" cy="120" r="16" fill="#f2d2b1" />
+  <circle cx="120" cy="122" r="6" fill="#3a2a1f" />
+  <path d="M104 134c8 8 24 8 32 0" stroke="#3a2a1f" stroke-width="4" stroke-linecap="round" fill="none" />
+  <ellipse cx="92" cy="168" rx="26" ry="22" fill="#d79a64" />
+  <ellipse cx="150" cy="168" rx="26" ry="22" fill="#d79a64" />
+  <g transform="translate(138 150)">
+    <circle cx="12" cy="12" r="12" fill="#ff5b7a" />
+    <circle cx="0" cy="18" r="10" fill="#ff7f97" />
+    <circle cx="24" cy="20" r="10" fill="#ff7f97" />
+    <rect x="9" y="20" width="6" height="26" fill="#5aa368" />
+  </g>
+</svg>

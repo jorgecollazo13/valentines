@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Valentine</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <canvas id="confetti" aria-hidden="true"></canvas>
+    <main class="card">
+      <div class="image-wrap">
+        <img src="assets/bear.svg" alt="Cute bear holding flowers" />
+      </div>
+      <h1>Will you be my Valentine?</h1>
+      <div class="buttons">
+        <button id="yesBtn" class="btn yes" type="button">Yes</button>
+        <button id="noBtn" class="btn no" type="button">No</button>
+      </div>
+    </main>
+    <div id="tryAgain" class="try-again" role="status" aria-live="polite">
+      Try again
+    </div>
+    <script src="app.js"></script>
+  </body>
+</html>
